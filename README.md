@@ -3,7 +3,7 @@ This program allows users to store and manipulate audio files in a database. Fea
 
 Users can select from the following options:
 
-1-Insert voices in the file
+1-Insert voices in the file  
 2-Read voices from the file
 3-Check matching with other voices by inputting a new voice
 4-Print the file
