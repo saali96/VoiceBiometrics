@@ -4,13 +4,13 @@ This program allows users to store and manipulate audio files in a database. Fea
 Users can select from the following options:
 
 1-Insert voices in the file  
-2-Read voices from the file
-3-Check matching with other voices by inputting a new voice
-4-Print the file
-5-Delete a voice from the database
-6-Check the shape of the file
-7-Store a new voice to the database live (through the microphone)
-8-Check the best matching voice by inputting a live new voice (through the microphone)
+2-Read voices from the file  
+3-Check matching with other voices by inputting a new voice  
+4-Print the file  
+5-Delete a voice from the database  
+6-Check the shape of the file  
+7-Store a new voice to the database live (through the microphone) 
+8-Check the best matching voice by inputting a live new voice (through the microphone)  
 
 
 This program is useful for anyone who needs to manage a database of audio files and perform various operations on them, as well as anyone who needs to authenticate users using voice recognition and fuzzy logic.
